@@ -1,0 +1,18 @@
+:root {
+    --font-dosis: 'Dosis', sans-serif;
+    --font-rock-salt: 'Rock Salt', cursive;
+    --color-orange: #FF8C00FF;
+    --color-darkorange: #FF8C00FF;
+}
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font-dosis);
+    letter-spacing: 2px;
+}
+
+body {
+    background: linear-gradient(to right, #dbd8d8, #fcfcfc, #e8e4e4);
+}
